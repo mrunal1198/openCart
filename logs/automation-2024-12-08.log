@@ -1,0 +1,59 @@
+23:10:22.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+23:10:23.645 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:10:23.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************finished  TC_001_AccountRegistrationTest***********
+23:10:31.976 [main] INFO  testCases.TC_002_LoginTest - *****starting TC_002_LoginTest******* 
+23:10:33.361 [main] INFO  testCases.TC_002_LoginTest - *****finished TC_002_LoginTest******* 
+23:10:59.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\master.xml
+
+23:11:03.376 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************starting TC_001_AccountRegistrationTest***********
+23:11:03.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+23:11:03.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+23:11:03.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+23:11:04.533 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:11:04.533 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************finished  TC_001_AccountRegistrationTest***********
+23:11:07.444 [main] INFO  testCases.TC_002_LoginTest - *****starting TC_002_LoginTest******* 
+23:11:08.657 [main] INFO  testCases.TC_002_LoginTest - *****finished TC_002_LoginTest******* 
+23:15:54.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\master.xml
+
+23:15:58.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************starting TC_001_AccountRegistrationTest***********
+23:15:58.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+23:15:59.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+23:15:59.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+23:16:00.042 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:16:00.042 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************finished  TC_001_AccountRegistrationTest***********
+23:16:03.902 [main] INFO  testCases.TC_002_LoginTest - *****starting TC_002_LoginTest******* 
+23:16:05.730 [main] INFO  testCases.TC_002_LoginTest - *****finished TC_002_LoginTest******* 
+11:38:59.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\master.xml
+
+11:39:58.534 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\master.xml
+
+11:42:08.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\master.xml
+
+11:42:49.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************starting TC_001_AccountRegistrationTest***********
+11:42:49.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+11:42:51.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+11:42:51.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+11:42:52.195 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+11:42:52.195 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************finished  TC_001_AccountRegistrationTest***********
+11:43:01.762 [main] INFO  testCases.TC_002_LoginTest - *****starting TC_002_LoginTest******* 
+11:43:03.416 [main] INFO  testCases.TC_002_LoginTest - *****finished TC_002_LoginTest******* 
+11:49:16.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\javaWorkspace\openCart\test-output\testng-failed.xml
+
+11:49:25.623 [main] INFO  testCases.TC_002_LoginTest - *****starting TC_002_LoginTest******* 
+11:49:27.622 [main] INFO  testCases.TC_002_LoginTest - *****finished TC_002_LoginTest******* 
+11:49:39.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************starting TC_001_AccountRegistrationTest***********
+11:49:39.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+11:49:43.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+11:49:43.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
+11:49:44.160 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+11:49:44.160 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************finished  TC_001_AccountRegistrationTest***********
+11:06:51.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****************starting TC_001_AccountRegistrationTest***********
+11:06:51.157 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount link
+11:06:52.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on registration link
+11:06:52.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - entering customer details
